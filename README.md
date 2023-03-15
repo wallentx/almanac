@@ -1,2 +1,2 @@
-# almanac
-For Chia Farmers
+# Almanac
+Config Management For Chia Farmers
