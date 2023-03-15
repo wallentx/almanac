@@ -1,0 +1,11 @@
+chia:
+  graft:
+    name: almanac
+    version: 0.0.1
+    description: Almanac - Config Management for Chia Farmers
+    authors:
+      - wallentx
+    build:
+      command: source ../../activate && pip install pyaml
+    artifacts:
+      - almanac
