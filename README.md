@@ -1,5 +1,6 @@
-# Almanac
-Config Management For Chia Farmers
+## Almanac
+<a href="https://github.com/wallentx/chia-extension"><img src="https://img.shields.io/badge/Install%20it%20with-Chia--Extension-blue"/></a>
+<div align="center">Config Management For Chia Farmers</div>
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/8990544/225270503-48f90e4e-3e40-4905-bd7c-28354bdb47a5.png">
